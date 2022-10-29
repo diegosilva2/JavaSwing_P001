@@ -1,2 +1,2 @@
-# JavaSwing_P001
-Projeto em JavaSwing
+# Java Swing
+Projeto básico usando os recursos de Java Swing
